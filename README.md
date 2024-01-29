@@ -19,10 +19,9 @@ Enthusiastic Flutter developer with a passion for the Mobile Application Develop
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=42A5F5)
 
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat-square&logo=firebase)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)  
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 
 
 - 🔧 &nbsp;
