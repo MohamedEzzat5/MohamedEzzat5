@@ -10,7 +10,7 @@ Enthusiastic Flutter developer with a passion for the Mobile Application Develop
 
 - 🎓 &nbsp; I graduated from the computer science faculty, Menofia University.
 - 🌱 &nbsp; Passionate learner with a thirst for knowledge and a keen interest in staying abreast of modern technologies.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mohamed-ezzat-6a99a0224/) [Gmail](https://www.mohamedezzat.business@gmail.com)
+- 📫 &nbsp; How to reach me: [Linkedin](https://www.linkedin.com/in/mohamed-ezzat-6a99a0224/) [Gmail](https://www.mohamedezzat.business@gmail.com)
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
 
